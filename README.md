@@ -45,13 +45,9 @@ Requisitos:
 1. Instalá el programa desde **Releases**.
 2. Creá la empresa y la sucursal en el primer arranque.
 3. Creá los usuarios con sus roles.
-4. ¡Listo para vender!
 
 ---
 
-## 💾 Backup
-
-GestionComercial incluye backup manual y automático configurable (frecuencia, hora, cantidad de copias a conservar). Se recomienda guardar las copias en un medio externo (pendrive o disco aparte) para mayor seguridad de los datos.
 
 ---
 
@@ -68,10 +64,10 @@ La versión de prueba dura **20 días** desde la primera ejecución, con un máx
 
 ---
 
-## 📧 Contacto
+
 
 - **Desarrollador:** Axel Silva
-- **Email:** [soporte@gestioncomercial.com](mailto:soporte@gestioncomercial.com)
+
 
 ---
 
