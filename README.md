@@ -100,8 +100,6 @@ Requisitos:
 3. Credenciales:
    Admin: admin@miempresa.com, Contraseña:Admin123!
    Vendedor: vendedor@miempresa.com, Contraseña:Vendedor123!
-   Gerente: gerente@miempresa.com, Contraseña:Gerente123!
-   
 ---
 
 
