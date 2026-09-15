@@ -28,7 +28,7 @@ GestionComercial es un software de gestión comercial diseñado para pequeños y
 | **Descuentos** | Configuración de descuentos globales y por categoría, combinables con método de pago 
 | **Usuarios y roles** | Autenticación por email con contraseña encriptada (BCrypt), tres roles (Gerente / Administrador / Vendedor) con permisos granulares por módulo, sesión por empresa 
 | **Configuración** | Datos de la empresa, sucursales, métodos de pago, gestión de usuarios y roles, perfil de usuario y cambio de contraseña 
-| **Mantenimiento** | Herramienta de diagnóstico y mantenimiento del sistema 
+| **Mantenimiento** | Herramienta de diagnóstico y mantenimiento del sistema(Visible solo para Dev) 
 | **Ajuste masivo de precios** | Actualización de precios de varios productos a la vez 
 | **Importación desde Excel** | Carga masiva de productos desde una planilla 
 
