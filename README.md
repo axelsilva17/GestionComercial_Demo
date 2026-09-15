@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" alt="GestionComercial" width="180"/>
+</p>
+
 # GestionComercial POS
 
 **Sistema de Punto de Venta (POS) Windows**
@@ -23,21 +27,21 @@ GestionComercial es un software de gestión comercial diseñado para pequeños y
 
 | Módulo | Funciones clave |
 |--------|----------------|
-| **Ventas** | Nueva venta con búsqueda de productos, cobro dividido en múltiples métodos de pago (efectivo, tarjeta, transferencia), descuentos por ítem, historial con detalle, anulación con motivo y comprobante 
-| **Caja** | Apertura y cierre con saldo inicial/final, control de turnos, movimientos de ingresos y egresos, auditoría con indicadores 
-| **Productos** | CRUD completo, categorías, código de barras, stock mínimo configurable (hasta 100 productos en demo) 
-| **Clientes** | CRUD completo con historial de ventas asociado 
-| **Reporte diario** | Reporte diario de ventas del día 
-| **Compras** | Registro de compras con selección de proveedor, ingreso de mercadería con precio de costo, subtotales automáticos e historial 
-| **Proveedores** | CRUD completo con historial de compras asociado 
-| **Inventario** | Stock por producto con movimientos (entrada/salida/ajuste), filtros por tipo y fecha, vista de stock crítico y paginación 
-| **Reportes completos** | Dashboard ejecutivo con gráficos de torta y barras (ventas diarias/semanales), stock crítico y exportación a Excel 
-| **Descuentos** | Configuración de descuentos globales y por categoría, combinables con método de pago 
-| **Usuarios y roles** | Autenticación por email con contraseña encriptada (BCrypt), tres roles (Gerente / Administrador / Vendedor) con permisos granulares por módulo, sesión por empresa 
-| **Configuración** | Datos de la empresa, sucursales, métodos de pago, gestión de usuarios y roles, perfil de usuario y cambio de contraseña 
-| **Mantenimiento** | Herramienta de diagnóstico y mantenimiento del sistema(Visible solo para Dev) 
-| **Ajuste masivo de precios** | Actualización de precios de varios productos a la vez 
-| **Importación desde Excel** | Carga masiva de productos desde una planilla 
+| **Ventas** | Nueva venta con búsqueda de productos, cobro dividido en múltiples métodos de pago (efectivo, tarjeta, transferencia), descuentos por ítem, historial con detalle, anulación con motivo y comprobante |
+| **Caja** | Apertura y cierre con saldo inicial/final, control de turnos, movimientos de ingresos y egresos, auditoría con indicadores |
+| **Productos** | CRUD completo, categorías, código de barras, stock mínimo configurable (hasta 100 productos en demo) |
+| **Clientes** | CRUD completo con historial de ventas asociado |
+| **Reporte diario** | Reporte diario de ventas del día |
+| **Compras** | Registro de compras con selección de proveedor, ingreso de mercadería con precio de costo, subtotales automáticos e historial |
+| **Proveedores** | CRUD completo con historial de compras asociado |
+| **Inventario** | Stock por producto con movimientos (entrada/salida/ajuste), filtros por tipo y fecha, vista de stock crítico y paginación |
+| **Reportes completos** | Dashboard ejecutivo con gráficos de torta y barras (ventas diarias/semanales), stock crítico y exportación a Excel |
+| **Descuentos** | Configuración de descuentos globales y por categoría, combinables con método de pago |
+| **Usuarios y roles** | Autenticación por email con contraseña encriptada (BCrypt), tres roles (Gerente / Administrador / Vendedor) con permisos granulares por módulo, sesión por empresa |
+| **Configuración** | Datos de la empresa, sucursales, métodos de pago, gestión de usuarios y roles, perfil de usuario y cambio de contraseña |
+| **Mantenimiento** | Herramienta de diagnóstico y mantenimiento del sistema (visible solo para Dev) |
+| **Ajuste masivo de precios** | Actualización de precios de varios productos a la vez |
+| **Importación desde Excel** | Carga masiva de productos desde una planilla | 
 
 ---
 
