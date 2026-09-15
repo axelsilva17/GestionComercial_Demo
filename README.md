@@ -97,9 +97,12 @@ Requisitos:
 
 1. Instalá el programa desde **Releases**.
 2. Iniciá sesión con los usuarios demo que se generan en la primera ejecución.
-
+3. Credenciales:
+   Admin: admin@miempresa.com, Contraseña:Admin123!
+   Vendedor: vendedor@miempresa.com, Contraseña:Vendedor123!
+   Gerente: gerente@miempresa.com, Contraseña:Gerente123!
+   
 ---
-
 
 
 ## 🔒 Privacidad
