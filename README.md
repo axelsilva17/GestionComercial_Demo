@@ -8,7 +8,14 @@ GestionComercial es un software de gestión comercial diseñado para pequeños y
 
 ## 🖥️ Capturas
 
-> Las capturas se agregan a esta sección próximamente.
+![Reporte gerencial](capturas/ReporteGerencial.jpg)
+
+| | |
+|---|---|
+| ![Apertura de caja](capturas/AperturaCaja.jpg) | ![Apertura de caja 2](capturas/AperturaCaja2.jpg) |
+| ![Cierre de caja](capturas/CierreCaja.jpg) | ![Cobro de venta](capturas/CobroVenta.jpg) |
+| ![Productos](capturas/Productos.jpg) | ![Ajuste masivo de precios](capturas/AjusteMasivo.jpg) |
+| ![Auditoría de caja](capturas/AuditoriaCaja.jpg) | |
 
 ---
 
