@@ -1,6 +1,6 @@
 # GestionComercial POS
 
-**Sistema de Punto de Venta (POS) para comercios minoristas — Windows**
+**Sistema de Punto de Venta (POS) Windows**
 
 GestionComercial es un software de gestión comercial diseñado para pequeños y medianos comercios: ventas, compras, productos, stock, caja, clientes y reportes en una sola aplicación de escritorio rápida y confiable, con respaldo automático de datos.
 
