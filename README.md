@@ -15,13 +15,13 @@ GestionComercial es un software de gestión comercial diseñado para pequeños y
 | | |
 |---|---|
 Reporte Gerencial
-| ![Reporte gerencial](capturas/ReporteGerencial.jpg) | ![Cobro de venta](capturas/CobroVenta.jpg) |
+| ![Reporte gerencial](capturas/ReporteGerencial.jpg) |  Cobro de Vebta![Cobro de venta](capturas/CobroVenta.jpg) |
 Apertura de Caja
 | ![Apertura de caja](capturas/AperturaCaja.jpg) | ![Apertura de caja 2](capturas/AperturaCaja2.jpg) |
 Cierre de Caja
-| ![Cierre de caja](capturas/CierreCaja.jpg) | ![Productos](capturas/Productos.jpg) |
+| ![Cierre de caja](capturas/CierreCaja.jpg) | Listado de Productos![Productos](capturas/Productos.jpg) |
 Ajuste Masivo de Precios 
-| ![Ajuste masivo de precios](capturas/AjusteMasivo.jpg) | ![Auditoría de caja](capturas/AuditoriaCaja.jpg) |
+| ![Ajuste masivo de precios](capturas/AjusteMasivo.jpg) | Auditoria de Caja![Auditoría de caja](capturas/AuditoriaCaja.jpg) |
 
 ---
 
