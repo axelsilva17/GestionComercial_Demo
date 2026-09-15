@@ -14,8 +14,8 @@ GestionComercial es un software de gestión comercial diseñado para pequeños y
 
 ## ✨ Funcionalidades Version Completa
 
-| Módulo | Funciones clave | Demo |
-|--------|----------------|------|
+| Módulo | Funciones clave |
+|--------|----------------|
 | **Ventas** | Nueva venta con búsqueda de productos, cobro dividido en múltiples métodos de pago (efectivo, tarjeta, transferencia), descuentos por ítem, historial con detalle, anulación con motivo y comprobante 
 | **Caja** | Apertura y cierre con saldo inicial/final, control de turnos, movimientos de ingresos y egresos, auditoría con indicadores 
 | **Productos** | CRUD completo, categorías, código de barras, stock mínimo configurable (hasta 100 productos en demo) 
