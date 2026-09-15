@@ -12,14 +12,12 @@ GestionComercial es un software de gestión comercial diseñado para pequeños y
 
 ## 🖥️ Capturas
 
-![Reporte gerencial](capturas/ReporteGerencial.jpg)
-
 | | |
 |---|---|
+| ![Reporte gerencial](capturas/ReporteGerencial.jpg) | ![Cobro de venta](capturas/CobroVenta.jpg) |
 | ![Apertura de caja](capturas/AperturaCaja.jpg) | ![Apertura de caja 2](capturas/AperturaCaja2.jpg) |
-| ![Cierre de caja](capturas/CierreCaja.jpg) | ![Cobro de venta](capturas/CobroVenta.jpg) |
-| ![Productos](capturas/Productos.jpg) | ![Ajuste masivo de precios](capturas/AjusteMasivo.jpg) |
-| ![Auditoría de caja](capturas/AuditoriaCaja.jpg) | |
+| ![Cierre de caja](capturas/CierreCaja.jpg) | ![Productos](capturas/Productos.jpg) |
+| ![Ajuste masivo de precios](capturas/AjusteMasivo.jpg) | ![Auditoría de caja](capturas/AuditoriaCaja.jpg) |
 
 ---
 
@@ -42,6 +40,34 @@ GestionComercial es un software de gestión comercial diseñado para pequeños y
 | **Mantenimiento** | Herramienta de diagnóstico y mantenimiento del sistema (visible solo para Dev) |
 | **Ajuste masivo de precios** | Actualización de precios de varios productos a la vez |
 | **Importación desde Excel** | Carga masiva de productos desde una planilla | 
+
+---
+
+## 🛠️ Tecnología y arquitectura
+
+| Componente | Tecnología |
+|------------|------------|
+| Lenguaje | C# |
+| Framework | .NET 8 |
+| Interfaz de usuario | WPF (Windows) |
+| ORM | Entity Framework Core 8 |
+| Base de datos | SQLite |
+| Aplicación | Escritorio autocontenida (Windows 10/11 x64) |
+
+**Arquitectura:** el sistema sigue una **arquitectura limpia (Clean Architecture)** con capas separadas por responsabilidad y dependencias estrictas hacia adentro: presentación (UI), casos de uso (Aplicación), dominio y persistencia. Esto mantiene las reglas de negocio independientes de la tecnología de datos y de la interfaz, facilitando el mantenimiento y la evolución.
+
+**Patrones de diseño utilizados:**
+
+| Patrón | Uso |
+|--------|-----|
+| **MVVM** | Separación de interfaz (Vista), estado y lógica (ViewModel) y modelo de datos |
+| **Repository** | Acceso a datos encapsulado detrás de interfaces, independiente del ORM |
+| **Unit of Work** | Transacciones consistentes entre múltiples operaciones |
+| **Strategy** | Procesamiento de pagos por método (efectivo, tarjeta, transferencia, otros) |
+| **Inyección de dependencias** | Composición y testeo de componentes desacoplados |
+| **Command (RelayCommand)** | Manejo de acciones de la interfaz sin acoplar la Vista al ViewModel |
+
+Todo el código sigue **principios SOLID** y cuenta con una **suite de pruebas automatizadas** (572 tests) que cubre la lógica de negocio, la persistencia y los ViewModels.
 
 ---
 
