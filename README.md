@@ -43,7 +43,7 @@ Ajuste Masivo de Precios
 | **Configuración** | Datos de la empresa, sucursales, métodos de pago, gestión de usuarios y roles, perfil de usuario y cambio de contraseña |
 | **Mantenimiento** | Herramienta de diagnóstico y mantenimiento del sistema (visible solo para Dev) |
 | **Ajuste masivo de precios** | Actualización de precios de varios productos a la vez |
-| **Importación desde Excel** | Carga masiva de productos desde una planilla | 
+| **Importación desde Excel** | Carga masiva de productos desde una planilla |
 
 ---
 
