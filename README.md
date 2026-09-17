@@ -111,4 +111,4 @@ Requisitos:
 ---
 
 
-© 2026 Axel Silva — Todos los derechos reservados.
+
