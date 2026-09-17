@@ -10,7 +10,7 @@ GestionComercial es un software de gestión comercial diseñado para pequeños y
 
 ---
 
-## 🖥️ Capturas
+##  Capturas
 
 | | |
 |---|---|
@@ -21,7 +21,7 @@ GestionComercial es un software de gestión comercial diseñado para pequeños y
 
 ---
 
-## ✨ Funcionalidades Version Completa
+##  Funcionalidades Version Completa
 
 | Módulo | Funciones clave |
 |--------|----------------|
@@ -43,7 +43,7 @@ GestionComercial es un software de gestión comercial diseñado para pequeños y
 
 ---
 
-## 🛠️ Tecnología y arquitectura
+##  Tecnología y arquitectura
 
 | Componente | Tecnología |
 |------------|------------|
@@ -71,7 +71,7 @@ Todo el código sigue **principios SOLID** y cuenta con una **suite de pruebas a
 
 ---
 
-## 🧪 Versión demo
+##  Versión demo
 
 La versión demo permite probar el sistema con las funcionalidades:
 
@@ -83,7 +83,7 @@ La versión demo permite probar el sistema con las funcionalidades:
 - Período de prueba: **20 días** desde la primera ejecución.
 - Límite de **200 ventas** durante la prueba.
 
-## 📥 Instalación
+##  Instalación
 
 > El instalador de la **versión demo** está disponible en **Releases**.
 
@@ -93,7 +93,7 @@ Requisitos:
 
 ---
 
-## 🚀 Comenzar
+##  Comenzar
 
 1. Instalá el programa desde **Releases**.
 2. Iniciá sesión con los usuarios demo que se generan en la primera ejecución.
@@ -103,7 +103,7 @@ Requisitos:
 ---
 
 
-## 🔒 Privacidad
+##  Privacidad
 
 - Los datos se guardan **localmente** en la base de datos SQLite del equipo (no se envían a servidores externos).
 - La aplicación no recopila ni transmite información personal.
