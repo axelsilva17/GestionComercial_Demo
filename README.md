@@ -14,14 +14,10 @@ GestionComercial es un software de gestión comercial diseñado para pequeños y
 
 | | |
 |---|---|
-Reporte Gerencial
-| ![Reporte gerencial](capturas/ReporteGerencial.jpg) |  Cobro de Venta![Cobro de venta](capturas/CobroVenta.jpg) |
-Apertura de Caja
-| ![Apertura de caja](capturas/AperturaCaja.jpg) | ![Apertura de caja 2](capturas/AperturaCaja2.jpg) |
-Cierre de Caja
-| ![Cierre de caja](capturas/CierreCaja.jpg) | Listado de Productos![Productos](capturas/Productos.jpg) |
-Ajuste Masivo de Precios 
-| ![Ajuste masivo de precios](capturas/AjusteMasivo.jpg) | Auditoria de Caja![Auditoría de caja](capturas/AuditoriaCaja.jpg) |
+| ![Reporte gerencial](capturas/ReporteGerencial.jpg)<br>*Reporte gerencial* | ![Cobro de venta](capturas/CobroVenta.jpg)<br>*Cobro de venta* |
+| ![Apertura de caja](capturas/AperturaCaja.jpg)<br>*Apertura de caja* | ![Apertura de caja 2](capturas/AperturaCaja2.jpg)<br>*Apertura de caja 2* |
+| ![Cierre de caja](capturas/CierreCaja.jpg)<br>*Cierre de caja* | ![Listado de productos](capturas/Productos.jpg)<br>*Listado de productos* |
+| ![Ajuste masivo de precios](capturas/AjusteMasivo.jpg)<br>*Ajuste masivo de precios* | ![Auditoría de caja](capturas/AuditoriaCaja.jpg)<br>*Auditoría de caja* |
 
 ---
 
@@ -102,8 +98,8 @@ Requisitos:
 1. Instalá el programa desde **Releases**.
 2. Iniciá sesión con los usuarios demo que se generan en la primera ejecución.
 3. Credenciales:
-   Admin: admin@miempresa.com, Contraseña:Admin123!
-   Vendedor: vendedor@miempresa.com, Contraseña:Vendedor123!
+   - **Admin:** admin@miempresa.com — Contraseña: Admin123!
+   - **Vendedor:** vendedor@miempresa.com — Contraseña: Vendedor123!
 ---
 
 
