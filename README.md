@@ -27,10 +27,10 @@ GestionComercial es un software de gestión comercial diseñado para pequeños y
 |--------|----------------|
 | **Ventas** | Nueva venta con búsqueda de productos, cobro dividido en múltiples métodos de pago (efectivo, tarjeta, transferencia), descuentos por ítem, historial con detalle, anulación con motivo y comprobante |
 | **Caja** | Apertura y cierre con saldo inicial/final, control de turnos, movimientos de ingresos y egresos, auditoría con indicadores |
-| **Productos** | CRUD completo, categorías, código de barras, stock mínimo configurable (hasta 100 productos en demo) |
+| **Productos** | CRUD completo, categorías, código de barras, stock mínimo configurable, unidades de medida con factor de conversión de compra (hasta 100 productos en demo) |
 | **Clientes** | CRUD completo con historial de ventas asociado |
 | **Reporte diario** | Reporte diario de ventas del día |
-| **Compras** | Registro de compras con selección de proveedor, ingreso de mercadería con precio de costo, subtotales automáticos e historial |
+| **Compras** | Registro de compras con selección de proveedor, ingreso de mercadería con precio de costo, conversión de unidades (p. ej. comprar por bolsa y vender por unidad), subtotales automáticos e historial |
 | **Proveedores** | CRUD completo con historial de compras asociado |
 | **Inventario** | Stock por producto con movimientos (entrada/salida/ajuste), filtros por tipo y fecha, vista de stock crítico y paginación |
 | **Reportes completos** | Dashboard ejecutivo con gráficos de torta y barras (ventas diarias/semanales), stock crítico y exportación a Excel |
@@ -67,7 +67,7 @@ GestionComercial es un software de gestión comercial diseñado para pequeños y
 | **Inyección de dependencias** | Composición y testeo de componentes desacoplados |
 | **Command (RelayCommand)** | Manejo de acciones de la interfaz sin acoplar la Vista al ViewModel |
 
-Todo el código sigue **principios SOLID** y cuenta con una **suite de pruebas automatizadas** (572 tests) que cubre la lógica de negocio, la persistencia y los ViewModels.
+Todo el código sigue **principios SOLID** y cuenta con una **suite de pruebas automatizadas** (711 tests) que cubre la lógica de negocio, la persistencia y los ViewModels.
 
 ---
 
@@ -77,7 +77,7 @@ La versión demo permite probar el sistema con las funcionalidades:
 
 - **Ventas** completas (POS con cobro dividido y comprobante).
 - **Caja** (apertura, cierre y movimientos).
-- **Productos** (hasta **100 productos**).
+- **Productos** (hasta **100 productos**) con unidades de medida y conversión de unidad de compra (p. ej. 1 bolsa = 25 unidades).
 - **Clientes** (básico).
 - **Reporte diario** de ventas.
 - Período de prueba: **20 días** desde la primera ejecución.
